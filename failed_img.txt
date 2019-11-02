@@ -1,0 +1,22 @@
+white area threshold = 0.15 failed:
+[img_(a)_(b)]: a is the img name, b is the real index.
+
+img_1: super dense waldo stripes: change strategy
+img_3: extremely low resolution. might be the white area threshold issue.
+img_12: tilted hat of waldo not found 
+img_13: tilted hat of waldo not found 
+img_15: tilted hat of wanda not found
+img_23: extremely low resolution. might be the white area threshold issue.
+img_25: super dense waldo stripes: change strategy
+img_28: extremely low solution: waldo color seems to be water washed; might be red mask segregation and white area threshold issue.
+img_29: tilted hat of waldo not found
+img_32: tilted hat of waldo not found
+img_37_34: waldo stripe not detected (3 stripes). waldo color seems to be water washed. Check if red-white-red stripes are detected.
+img_51_43: tilted hat of waldo not found
+img_52_44: extremely low resolution. Can try making the pixels sharp first.
+img_53_45: tilted hat of waldo not found
+img_56_47: extremely low resolution. Can try making the pixels sharp first.
+img_57_48: extremely low resolution but can find the waldo.
+img_58_49: tilted hat of waldo not found
+img_68: super dense waldo stripes: change strategy
+
